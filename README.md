@@ -13,6 +13,9 @@ App can be run on both android and IOS
 
 Executable file in main.dart
 
+## Structure Tree 
+<img src="https://github.com/jayanthj737/Minimal-Flutter-App/blob/master/1%2Bapp%3F/Screenshot%202019-12-07%20at%2012.00.09%20AM.png" height=400>
+
 ## References
 
 [Flutter](https://flutter.dev/)
