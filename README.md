@@ -1,6 +1,6 @@
 # Minimal-Flutter-App
 
-<img align="right" src="https://github.com/jayanthj737/Minimal-Flutter-App/blob/master/1%2Bapp%3F/Screenshot_1575656274.png" height="400">
+<img align="right" src="https://github.com/jayanthj737/Minimal-Flutter-App/blob/master/1%2Bapp%3F/Screenshot_1575656274.png" height="600">
 
 First App Developed using Flutter.
 
